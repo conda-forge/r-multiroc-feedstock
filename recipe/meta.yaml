@@ -1,4 +1,4 @@
-{% set version = '1.0.0' %}
+{% set version = "1.1.1" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/multiROC_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/multiROC/multiROC_{{ version }}.tar.gz
-  sha256: 83f4c1479ca7134df42bd94d2517e9dc6372cd99c3d63c8d7ea74ea2c313657d
+  sha256: a3690e821757a2a6390b7c24e903ebbf999b20df7284d84a617afb366f5fcd97
 
 build:
   number: 0
