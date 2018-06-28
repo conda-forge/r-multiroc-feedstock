@@ -14,14 +14,16 @@ Summary: Tools to solve real-world problems with multiple classes by computing t
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-multiroc-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-multiroc-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-multiroc-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-multiroc-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-multiroc-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-multiroc-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-multiroc-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-multiroc-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-multiroc-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-multiroc-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-multiroc-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-multiroc-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-multiroc/badges/version.svg)](https://anaconda.org/conda-forge/r-multiroc)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-multiroc/badges/downloads.svg)](https://anaconda.org/conda-forge/r-multiroc)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--multiroc-green.svg)](https://anaconda.org/conda-forge/r-multiroc) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-multiroc.svg)](https://anaconda.org/conda-forge/r-multiroc) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-multiroc.svg)](https://anaconda.org/conda-forge/r-multiroc) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-multiroc.svg)](https://anaconda.org/conda-forge/r-multiroc) |
 
 Installing r-multiroc
 =====================
