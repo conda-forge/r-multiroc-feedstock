@@ -7,21 +7,23 @@ Package license: GPL-3
 
 Feedstock license: BSD 3-Clause
 
-Summary: Tools to solve real-world problems with multiple classes by computing the areas under ROC curve via micro-averaging and macro-averaging. The methodology is described in V. Van Asch (2013) <https://www.clips.uantwerpen.be/~vincent/pdf/microaverage.pdf> and Pedregosa et al. (2011) <http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html>.
+Summary: Tools to solve real-world problems with multiple classes classifications by computing the areas under ROC and PR curve via micro-averaging and macro-averaging. The vignettes of this package can be found via <https://github.com/WandeRum/multiROC>. The methodology is described in V. Van Asch (2013) <https://www.clips.uantwerpen.be/~vincent/pdf/microaverage.pdf> and Pedregosa et al. (2011) <http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html>.
 
 
 
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-multiroc-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-multiroc-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-multiroc-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-multiroc-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-multiroc-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-multiroc-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-multiroc-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-multiroc-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-multiroc-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-multiroc-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-multiroc-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-multiroc-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-multiroc/badges/version.svg)](https://anaconda.org/conda-forge/r-multiroc)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-multiroc/badges/downloads.svg)](https://anaconda.org/conda-forge/r-multiroc)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--multiroc-green.svg)](https://anaconda.org/conda-forge/r-multiroc) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-multiroc.svg)](https://anaconda.org/conda-forge/r-multiroc) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-multiroc.svg)](https://anaconda.org/conda-forge/r-multiroc) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-multiroc.svg)](https://anaconda.org/conda-forge/r-multiroc) |
 
 Installing r-multiroc
 =====================
