@@ -1,11 +1,11 @@
-About r-multiroc
-================
+About r-multiroc-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-multiroc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=multiROC
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-multiroc-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools to solve real-world problems with multiple classes classifications by computing the areas under ROC and PR curve via micro-averaging and macro-averaging. The vignettes of this package can be found via <https://github.com/WandeRum/multiROC>. The methodology is described in V. Van Asch (2013) <https://www.clips.uantwerpen.be/~vincent/pdf/microaverage.pdf> and Pedregosa et al. (2011) <http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html>.
 
